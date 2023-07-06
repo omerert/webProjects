@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Overlock
+- Font Author: Copyright (c) 2011, Dario Manuel Muhafara (http://www.tipo.net.ar), with Reserved Font Name "Overlock".
+- Font Source: http://fonts.gstatic.com/s/overlock/v15/Z9XVDmdMWRiN1_T9Z4Te4u2El6GC.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
